@@ -52,13 +52,9 @@ By organizing the report in this manner, key stakeholders gain a holistic view o
 ![Task 2 Call Centre Trend Analyisis](https://github.com/Chetanchandra1994/Forage-PWC-PowerBI-Virtual-Internship/assets/71788058/ec6231d3-ce1e-43eb-8408-4c3353e697fb)
 
 
-![Performance_Analysis](https://github.com/Chetanchandra1994/Maven_Challenge/assets/71788058/3f0e1734-6533-49ca-a9b2-7294b38f98cd)
+![Task 3 PhoneNow Customer Retention](https://github.com/Chetanchandra1994/Forage-PWC-PowerBI-Virtual-Internship/assets/71788058/3d182b34-81d9-4d5f-8cd1-28b636499c48)
 
 
-![Journey Analysis](https://github.com/Chetanchandra1994/Maven_Challenge/assets/71788058/6566a34d-2553-41c1-875f-f7deb417ba3b)
-
-
-![Travelers Analysis](https://github.com/Chetanchandra1994/Maven_Challenge/assets/71788058/a81bfec3-cf2e-461d-b707-19d5c22136f5)
 
 
 
