@@ -1,9 +1,7 @@
 # Forage PWC PowerBI Virtual Internship
 
+
 This consists of my dashboards which I have done as a part of my Power BI Virtual Intership by PWC Switzerland. Task 2 - Call Centre Trends, Task 3 - Customer Retention , Task4 - Diversity & Inclusion.
-
-
-Task3 Customer Retention
 
 Problem Statement :
 The purpose of this task is to:
