@@ -41,17 +41,16 @@ Each of the columns in the table were validated to have the correct data type
 Data Modeling:
 And then dataset was cleaned and transformed, it was ready to the data modeled.
 
-
+# TASK 2 Call Centre Trends
 ![Task 2 Call Centre Trend Analyisis](https://github.com/Chetanchandra1994/Forage-PWC-PowerBI-Virtual-Internship/assets/71788058/ec6231d3-ce1e-43eb-8408-4c3353e697fb)
 
 
-
-
+# TASK 3 Customer Retention 
 ![Task 3 PhoneNow Customer Retention](https://github.com/Chetanchandra1994/Forage-PWC-PowerBI-Virtual-Internship/assets/71788058/3d182b34-81d9-4d5f-8cd1-28b636499c48)
 
 
 
-
+# TASK 4 Diversity & Inclusion
 ![Task 4 Diversity   Inclusion](https://github.com/Chetanchandra1994/Forage-PWC-PowerBI-Virtual-Internship/assets/71788058/a3b78a4f-199c-4d31-828a-34640816df39)
 
 
