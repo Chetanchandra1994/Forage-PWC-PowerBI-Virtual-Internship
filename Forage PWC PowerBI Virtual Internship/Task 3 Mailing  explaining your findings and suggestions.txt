@@ -1,0 +1,33 @@
+Subject: Summary of Findings and Recommendations for Customer Retention Analysis
+
+Dear Janet,
+
+I hope this email finds you well. I wanted to share with you the key insights and recommendations from the customer retention analysis project. Here's a brief overview:
+
+INSIGHTS
+
+Out of the total 7,043 customers analyzed, 1,869 have churned.
+Gender distribution among churned customers is fairly balanced, with 50.48% of males and 49.52% of females customers. Only 16% of the Churned customers fall into the senior citizen category and 30% of churned customers have dependents.
+The average monthly charge is $452.12k, with a majority of customers opting for month-to-month contracts. Notably, over 88% of churned customers had month-to-month contracts.
+75% of churned customers used paperless billing.
+57% of churned customers used electronic check as payment method.
+70% of churned customers used Fibre Optic as Internet Services.
+Churn rates are highest within the first year of customer tenure, with a downward trend observed over time.
+999 customers churned within 1 year of subscription. 
+
+RECOMMENDATIONS
+
+Prioritize efforts to retain customers with long-term contracts to mitigate churn rates.
+Ensure universal access to internet services to bolster satisfaction and retention levels.
+Address service gaps such as online security, backup, device protection, and tech support to proactively prevent churn.
+Evaluate the efficacy of paperless billing, particularly among customers with lower charges.
+Provide internet access to customers currently without it, thereby promoting engagement with streaming services.
+
+CONCLUSION
+
+In conclusion, the analysis offers actionable insights to enhance customer retention and satisfaction levels. By addressing identified service gaps and optimizing billing methods, we can work towards reducing churn rates and fostering a more positive customer experience.
+
+I look forward to discussing these findings with you further and exploring potential strategies to implement the recommendations.
+
+Best regards,
+Chetan
