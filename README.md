@@ -16,7 +16,7 @@ Demographic info about customers – gender, age range, and if they have partner
 Datasource :
 Dataset used for this task was presented by Pwc and customer churn Retention dataset:
 
-Dataset: Customer Churn Retention
+Dataset: [Forage PWC PowerBI Virtual Internship/Datasets]
 
 Data Preparation:
 Completed the Data transformation in Power Query and the dataset loaded into Microsoft Power BI Desktop for modeling.
